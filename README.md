@@ -26,3 +26,8 @@ git config --edit
 ## TODO
 
 - git commit hook to check debugger, console.log etc.
+- prettier
+- stylus
+- describe `production` mode
+- jest
+- describing testing app
